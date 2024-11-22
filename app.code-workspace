@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "app",
+		"path": "../../../metrics/src/app"
+	},
+	{
+		"name": "dishhub-nextjs",
+		"path": "."
+	}
+],
+  "settings": {}
+}
